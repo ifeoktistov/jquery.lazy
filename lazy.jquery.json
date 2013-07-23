@@ -1,7 +1,7 @@
 {
 	"name": "lazy",
-	"version": "0.1.10",
-	"title": "jQuery Lazy Image Loader",
+	"version": "0.1.11",
+	"title": "jQuery Lazy Image Loader (fork Igor Feoktistov)",
 	"author":
 	{
 		"name": "Daniel 'Eisbehr' Kern",
